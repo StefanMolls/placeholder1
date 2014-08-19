@@ -1,4 +1,4 @@
-# Willhelm - Discovery Ant
+# Wilhelm - Discovery Ant
 
 import wmi
 import inspect 
