@@ -1,4 +1,4 @@
 placeholder1
 ============
 
-TBD
+Coding competition with nidsche :-)
